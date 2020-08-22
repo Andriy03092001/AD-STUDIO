@@ -4,6 +4,8 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -73,6 +75,10 @@ body {
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
+
+.ftco-animate{
+  padding-bottom: 10px;
+}
 
 hr {
   -webkit-box-sizing: content-box;
